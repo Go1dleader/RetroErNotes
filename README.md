@@ -1,7 +1,13 @@
 # RetroNotes
-Rubén Campelo personal theme for [Obsidian](https://obsidian.md/).
+
+This is my attempt at a new theme based off of Rubén Campelo personal theme for [Obsidian](https://obsidian.md/).
+
+If somehow I end up messing up the original theme or anyone elses, I am so sorry. This is my first time coding anything, I have no clue what I am doing.
+
+Everything below this is copied from the original README, have fun kids
 
 <p align="center"><img src="/.github/screenshots/retronotes-default.jpg" alt="Light and dark themes screenshots"></p>
+
 
 ## Preface
 Notice that I'm building this theme for myself and probably will not work with most of the plugins, but feel free to add issues and pull requests. I will work on them little by little.
@@ -33,12 +39,16 @@ In addition, RetroNotes includes five extra dark color schemes for those who pre
 
 
 ## Tested Plugin Compatibility
+Note: This was for the original theme, knowing me and my (lack of) programming skills, Theres a solid chance that I somehow found a way to break them.
 - [x] [Calendar by @liamcain](https://github.com/liamcain/obsidian-calendar-plugin)
 - [x] [Dataview by Michael Brenan](https://github.com/blacksmithgu/obsidian-dataview)
 - [x] [Day Planner by James Lynch, continued by @ivan-lednev](https://github.com/ivan-lednev/obsidian-day-planner)
 - [x] [Editing Toolbar by Cuman](https://github.com/cumany/obsidian-editing-toolbar)
 - [x] [Kanban by @mgmeyers](https://github.com/mgmeyers/obsidian-kanban)
 
-## Early collaborators
+## Contributors & Stuff
+Thank you so much to [@Sr-campelo](https://github.com/sr-campelo) for making the kickass theme that I totally ripped off, you are great man.
+
+The following lines in this section were added by Sr-Campelo. I can't honestly say anything about them, but I would guess they're pretty cool.
 Big thanks to [@incantatem1](https://github.com/incantatem1) for their constant collaboration.
 Misty Mirage dark colorscheme is their request, you can go thank them [here](https://github.com/sr-campelo/retronotes/issues/2). 
